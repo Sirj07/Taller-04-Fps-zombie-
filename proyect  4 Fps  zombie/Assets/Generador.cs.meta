@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: c11be881d9709694ca1e8168c4526d1e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ZombieMesh: {instanceID: 0}
+  - Gente: {instanceID: 0}
+  - Hero: {instanceID: 0}
+  - enemy: {instanceID: 0}
+  - ally: {instanceID: 0}
+  - Ztext: {instanceID: 0}
+  - ctext: {instanceID: 0}
+  - Game_over: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
